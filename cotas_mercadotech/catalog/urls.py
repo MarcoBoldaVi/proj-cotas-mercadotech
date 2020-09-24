@@ -3,5 +3,4 @@ from catalog import views
 
 
 urlpatterns = [
-
 ]
