@@ -4,8 +4,7 @@
     <list default="true" id="352316c8-3f09-421a-a65d-282795cb9341" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cotas_mercadotech/catalog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cotas_mercadotech/catalog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cotas_mercadotech/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/cotas_mercadotech/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cotas_mercadotech/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cotas_mercadotech/catalog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cotas_mercadotech/catalog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
